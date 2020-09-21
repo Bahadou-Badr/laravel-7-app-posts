@@ -1,4 +1,4 @@
-## About This Laravel Project 🚩🚩
+## About This Project 🚩🚩
 
 The Laravel technologies I used ⚡⚡🎖️:
 
