@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About This Laravel Project 
+## About This Laravel Project 🚩🚩
 
 The Laravel technologies I used ⚡⚡🎖️:
 
@@ -29,7 +29,7 @@ The Laravel technologies I used ⚡⚡🎖️:
 - Api Resources
 - Api en Laravel
 
-## Installation
+## Installation 🏁🏁
 
 1. Clone the repo and `cd ` into it
 2. `composer install`
