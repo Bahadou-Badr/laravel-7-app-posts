@@ -6,7 +6,7 @@ The Laravel technologies I used ⚡⚡🎖️:
 - Scope of queries (Local & Global)
 - Laravel Blade Components
 - Cache management (Caching)
-- Elequent relation Many To Many
+- Elequent relation ORM
 - Reuse components (Query scopes, Route Model Binding) and Themes
 - Uploading & File storage
 - Elequent relation One To One Polymorphic
