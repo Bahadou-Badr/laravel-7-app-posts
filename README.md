@@ -17,7 +17,7 @@ The Laravel technologies I used ⚡⚡🎖️:
 - Observers, Events, Listeners, & Subscribers
 - Localisation (Traduction)
 - Api Resources
-- Api en Laravel
+- Api with Laravel
 
 ## Installation 🏁🏁
 
